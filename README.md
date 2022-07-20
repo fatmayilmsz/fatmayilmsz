@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fatmayilmsz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Full Stack
+- 🌱 I’m currently learning  JavaScript,React, TypeScript
 - 📫 How to reach me yilmszfatma@gmail.com
 
 <!---
