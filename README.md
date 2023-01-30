@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @fatmayilmsz
-- 👀 I’m interested in Web Full Stack
-- 🌱 I’m currently learning  JavaScript,React, TypeScript
 - 📫 How to reach me yilmszfatma@gmail.com
 
 <!---
